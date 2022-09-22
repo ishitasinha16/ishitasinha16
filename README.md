@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I’m Ishita!
+### 💬 Ask me about Development/Coding.
+![I](https://user-images.githubusercontent.com/71885291/191814454-19f5853e-da45-459f-8726-4ce40e8fdf39.png)
+
+
+
 
 <!--
 **ishitasinha16/ishitasinha16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
