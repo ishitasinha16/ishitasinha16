@@ -6,10 +6,10 @@
 ### <div align="center">I'm Ishita, a full-stack developer 👨‍💻 and a passionate coder 🚀</div>  
   
 
-- 🌱 I’m currently learning Blockchain.  
+- 🌱 Currently into devlopment and coding.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Java, full stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
